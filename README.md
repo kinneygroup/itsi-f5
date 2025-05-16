@@ -1,5 +1,5 @@
 ## Summary
-The ITSI Content Pack for F5 BIG-IP from Kinney Group is specifically designed to monitor system health related to F5 BIG-IP. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for F5 BIG-IP, ensuring critical systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their infrastructure.
+The ITSI Content Pack for F5 BIG-IP from Presidio Splunk Solutions is specifically designed to monitor system health related to F5 BIG-IP. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for F5 BIG-IP, ensuring critical systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their infrastructure.
 
 * Comprehensive Performance Monitoring: Offers detailed insights into F5 BIG-IP performance, including load balancing, network metrics, application performance, and security events.
 * Critical System Status Tracking: Monitors the real-time operational status of F5 BIG-IP components, helping IT professionals swiftly identify and address potential issues.
@@ -7,14 +7,14 @@ The ITSI Content Pack for F5 BIG-IP from Kinney Group is specifically designed t
 
 This ITSI Content Pack is open source and available for community collaboration and enhancement on [GitHub](https://www.github.com/kinneygroup).
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://atlas.presidio.com)
 
 ## Details
 The ITSI Content Pack for F5 BIG-IP contains service definitions and KPIs ready to import to ITSI. The KPI Thresholds and importance values are set to defaults so that they can be tuned manually for your use case. After configuration, this content pack provides a comprehensive monitoring solution for F5 BIG-IP environments.
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://atlas.presidio.com)
 
 ### Services
 F5 BIG-IP monitoring encompasses several specialized services, each targeting specific aspects of system performance:
@@ -87,26 +87,27 @@ Some services form a hierarchy, such as System Health being the foundational com
 
 ## Troubleshooting
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
 [Github and Readme](https://www.github.com/kinneygroup)
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
 ## Contact
 
 To provide feedback, visit our [Github and Readme](https://www.github.com/kinneygroup) for our content packs.
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas)
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://atlas.presidio.com)
 
 ## Version History
 
 | Version | Date  | Description                |
 |---------|-------|----------------------------|
 | 0.0.1   | 6/10/24 | Initial Preview Release    |
+| 1.0.0   | 5/14/25 | Documentation Update |
 
 ## Considerations:
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
